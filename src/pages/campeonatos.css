@@ -153,8 +153,7 @@ header .information-container button{
 
 .outher-cups{
     width: 100vw;
-    background-color: black;
-    padding: 20px;
+    padding: 10px;
 }
 
 .outher-cups h2{
@@ -172,7 +171,7 @@ header .information-container button{
 }
 
 .outher-cups ul li{
-    margin: 10px;
+    margin: 3px;
 }
 
 .outher-cups ul li:hover{
@@ -182,7 +181,8 @@ header .information-container button{
 }
 
 .outher-cups ul li img{
-    width: 300px;
-    height: 180px;
+    width: 340px;
+    height: 200px;
+    border-radius: 3px;
 }
 

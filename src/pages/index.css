@@ -1,0 +1,45 @@
+.header-index{
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    background-size: cover;
+    background-image: url('../assets/pub.png');
+}
+
+.information-index{
+    width: 40vw;
+    padding: 30px;
+    color: white;
+}
+
+.information-index article .title h2{
+    font-size: 50px;
+}
+
+.information-index article .title h3{
+    font-size: 50px;
+}
+
+.btn{
+    background-color: #DC0B46;
+    border: none;
+    border-radius: 2px;
+    padding: 13px 40px;
+    font-size: 20px;
+    color: white;
+    margin: 5px;   
+}
+
+.campeonatos{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+    flex-direction: column;
+    background-size: cover;
+    background-image: url('../assets/bg-campeonatos.png');
+}
