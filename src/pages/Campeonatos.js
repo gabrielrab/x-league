@@ -2,7 +2,7 @@ import React from "react";
 //import { Link } from "react-router-dom";
 import { FaRegPlayCircle } from "react-icons/fa";
 
-import "./index.css";
+import "./campeonatos.css";
 import small from "../assets/small.png";
 import tiro from "../assets/bg-rocketleague.png";
 import fifa from "../assets/fifa.png";
