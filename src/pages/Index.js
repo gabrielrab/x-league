@@ -8,12 +8,15 @@ import fifa from "../assets/fifa.png";
 import pubg from "../assets/oubg.png";
 import rocket from "../assets/rocket.png";
 import ft from "../assets/footboll-small.png";
+import logo from "../assets/logo.png";
 
 export default function() {
   return (
     <>
       <nav>
-        <div className="close-btn">X</div>
+        <div className="close-btn">
+          <img src={logo} alt="X-League" />
+        </div>
         <ul>
           <li>Campeonatos</li>
           <li>Academy</li>
